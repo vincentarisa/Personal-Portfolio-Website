@@ -1,7 +1,7 @@
 # Personal Portfolio Website 
 ![GitHub](https://img.shields.io/github/license/juniordevske/Personal-Portfolio-Website?style=plastic)
 
-This is an example personal website that students of my class can refer to when creating their own practice projects. This project mainly focuses on the frontend design
+This is an example personal website template that can be used to create any personal website. This project mainly focuses on the frontend design using HTML5, CSS3 and Bootstrap 5
 
 ## Table of Contents
 * [General info](#general-info)
@@ -9,7 +9,7 @@ This is an example personal website that students of my class can refer to when 
 * [Setup](#setup)
 
 ## General info
-This is a practice project and it is not created for commercial use.
+This is a example project. Hence, it can be cloned and used in any form possible
 	
 ## Technologies
 Project is created with:
